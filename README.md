@@ -6,6 +6,6 @@
   4. What products are most often sold together?
   5. What product sold the most and why?
 
-To answer these questions we cleaned up the data first(dropping NaN values, removing rows based on 
+To answer these questions I cleaned up the data (dropping NaN values, removing rows based on 
 conditions and changing the type of columns) and then used Python Pandas for analysis
 and Python Matplotlib for visualizing the results
